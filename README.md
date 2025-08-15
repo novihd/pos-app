@@ -1,4 +1,4 @@
-# pos_app
+# POS App
 
 A new Flutter project.
 
